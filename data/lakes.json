@@ -1,0 +1,137 @@
+[
+  {
+    "town": "Aurora, Portage, OH",
+    "size (acres)": 345,
+    "name": "Aurora Pond"
+  },
+  {
+    "town": "Munson, Geauga, OH",
+    "size (acres)": 128,
+    "name": "Bass Lake"
+  },
+  {
+    "town": "Franklin, Portage, OH",
+    "size (acres)": 70,
+    "name": "Brady Lake"
+  },
+  {
+    "town": "Westfield, Medina, OH",
+    "size (acres)": 324,
+    "name": "Chippewa Lake"
+  },
+  {
+    "town": "Lake, Stark, OH",
+    "size (acres)": 200,
+    "name": "Congress Lake"
+  },
+  {
+    "town": "Franklin, Portage, OH",
+    "size (acres)": 67,
+    "name": "East Twin Lake"
+  },
+  {
+    "town": "Bainbridge, Geauga, OH",
+    "size (acres)": 50,
+    "name": "Geauga Lake"
+  },
+  {
+    "town": "Ravenna, Portage, OH",
+    "size (acres)": 190,
+    "name": "Lake Hodgson"
+  },
+  {
+    "town": "Coventry, Summit, OH",
+    "size (acres)": 80,
+    "name": "Lake Nesmith"
+  },
+  {
+    "town": "Franklin, Portage, OH",
+    "size (acres)": 143,
+    "name": "Lake Pippen"
+  },
+  {
+    "town": "Franklin, Summit, OH",
+    "size (acres)": 61,
+    "name": "Luna Lake"
+  },
+  {
+    "town": "Canton, Stark, OH",
+    "size (acres)": 134,
+    "name": "Meyers Lake"
+  },
+  {
+    "town": "Rootstown, Portage, OH",
+    "size (acres)": 82,
+    "name": "Muzzy Lake"
+  },
+  {
+    "town": "Northwest, Williams, OH",
+    "size (acres)": 94,
+    "name": "Nettle Lake"
+  },
+  {
+    "town": "Washington, Holmes, OH",
+    "size (acres)": 107,
+    "name": "Odell Lake"
+  },
+  {
+    "town": "Newbury, Geauga, OH",
+    "size (acres)": 101,
+    "name": "Punderson Lake"
+  },
+  {
+    "town": "Rootstown, Portage, OH",
+    "size (acres)": 90,
+    "name": "Sandy Lake"
+  },
+  {
+    "town": "Silver Lake, Summit, OH",
+    "size (acres)": 91,
+    "name": "Silver Lake"
+  },
+  {
+    "town": "Green, Summit, OH",
+    "size (acres)": 62,
+    "name": "Singer Lake"
+  },
+  {
+    "town": "Perry, Stark, OH",
+    "size (acres)": 88,
+    "name": "Sippo Lake"
+  },
+  {
+    "town": "Springfield, Summit, OH",
+    "size (acres)": 200,
+    "name": "Springfield Lake"
+  },
+  {
+    "town": "Barberton, Summit, OH",
+    "size (acres)": 100,
+    "name": "Summit Lake"
+  },
+  {
+    "town": "Aurora, Portage, OH",
+    "size (acres)": 63,
+    "name": "Sunny Lake"
+  },
+  {
+    "town": "Green, Summit, OH",
+    "size (acres)": 318,
+    "name": "Turkeyfoot Lake"
+  },
+  {
+    "town": "Franklin, Portage, OH",
+    "size (acres)": 91,
+    "name": "West Twin Lake"
+  },
+  {
+    "town": "Suffield, Portage, OH",
+    "size (acres)": 262,
+    "name": "Wingfoot Lake"
+  },
+  {
+    "town": "Stow, Summit, OH",
+    "size (acres)": 60,
+    "name": "Wyoga Lake"
+  }
+]

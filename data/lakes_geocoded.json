@@ -1,0 +1,245 @@
+[
+  {
+    "town": "Aurora, Portage, OH", 
+    "size (acres)": 345, 
+    "name": "Aurora Pond", 
+    "location": {
+      "lat": 41.3025748, 
+      "lng": -81.3625323
+    }
+  }, 
+  {
+    "town": "Munson, Geauga, OH", 
+    "size (acres)": 128, 
+    "name": "Bass Lake", 
+    "location": {
+      "lat": 41.550903, 
+      "lng": -81.2229672
+    }
+  }, 
+  {
+    "town": "Franklin, Portage, OH", 
+    "size (acres)": 70, 
+    "name": "Brady Lake", 
+    "location": {
+      "lat": 41.1642921, 
+      "lng": -81.31587309999999
+    }
+  }, 
+  {
+    "town": "Westfield, Medina, OH", 
+    "size (acres)": 324, 
+    "name": "Chippewa Lake", 
+    "location": {
+      "lat": 41.060615, 
+      "lng": -81.9105167
+    }
+  }, 
+  {
+    "town": "Lake, Stark, OH", 
+    "size (acres)": 200, 
+    "name": "Congress Lake", 
+    "location": {
+      "lat": 40.9752904, 
+      "lng": -81.3242588
+    }
+  }, 
+  {
+    "town": "Franklin, Portage, OH", 
+    "size (acres)": 67, 
+    "name": "East Twin Lake", 
+    "location": {
+      "lat": 41.19126989999999, 
+      "lng": -81.3392039
+    }
+  }, 
+  {
+    "town": "Bainbridge, Geauga, OH", 
+    "size (acres)": 50, 
+    "name": "Geauga Lake", 
+    "location": {
+      "lat": 41.3493617, 
+      "lng": -81.3736244
+    }
+  }, 
+  {
+    "town": "Ravenna, Portage, OH", 
+    "size (acres)": 190, 
+    "name": "Lake Hodgson", 
+    "location": {
+      "lat": 41.1376386, 
+      "lng": -81.2816398
+    }
+  }, 
+  {
+    "town": "Coventry, Summit, OH", 
+    "size (acres)": 80, 
+    "name": "Lake Nesmith", 
+    "location": {
+      "lat": 41.026913, 
+      "lng": -81.552101
+    }
+  }, 
+  {
+    "town": "Franklin, Portage, OH", 
+    "size (acres)": 143, 
+    "name": "Lake Pippen", 
+    "location": {
+      "lat": 41.1776049, 
+      "lng": -81.31037069999999
+    }
+  }, 
+  {
+    "town": "Franklin, Summit, OH", 
+    "size (acres)": 61, 
+    "name": "Luna Lake", 
+    "location": {
+      "lat": 40.919633, 
+      "lng": -81.6185783
+    }
+  }, 
+  {
+    "town": "Canton, Stark, OH", 
+    "size (acres)": 134, 
+    "name": "Meyers Lake", 
+    "location": {
+      "lat": 40.812558, 
+      "lng": -81.4165041
+    }
+  }, 
+  {
+    "town": "Rootstown, Portage, OH", 
+    "size (acres)": 82, 
+    "name": "Muzzy Lake", 
+    "location": {
+      "lat": 41.1190267, 
+      "lng": -81.26145600000001
+    }
+  }, 
+  {
+    "town": "Northwest, Williams, OH", 
+    "size (acres)": 94, 
+    "name": "Nettle Lake", 
+    "location": {
+      "lat": 41.6828404, 
+      "lng": -84.7269851
+    }
+  }, 
+  {
+    "town": "Washington, Holmes, OH", 
+    "size (acres)": 107, 
+    "name": "Odell Lake", 
+    "location": {
+      "lat": 40.6608762, 
+      "lng": -82.11219229999999
+    }
+  }, 
+  {
+    "town": "Newbury, Geauga, OH", 
+    "size (acres)": 101, 
+    "name": "Punderson Lake", 
+    "location": {
+      "lat": 41.4534408, 
+      "lng": -81.2057502
+    }
+  }, 
+  {
+    "town": "Rootstown, Portage, OH", 
+    "size (acres)": 90, 
+    "name": "Sandy Lake", 
+    "location": {
+      "lat": 41.1210523, 
+      "lng": -81.2973009
+    }
+  }, 
+  {
+    "town": "Silver Lake, Summit, OH", 
+    "size (acres)": 91, 
+    "name": "Silver Lake", 
+    "location": {
+      "lat": 41.158945, 
+      "lng": -81.4542792
+    }
+  }, 
+  {
+    "town": "Green, Summit, OH", 
+    "size (acres)": 62, 
+    "name": "Singer Lake", 
+    "location": {
+      "lat": 40.9168043, 
+      "lng": -81.486251
+    }
+  }, 
+  {
+    "town": "Perry, Stark, OH", 
+    "size (acres)": 88, 
+    "name": "Sippo Lake", 
+    "location": {
+      "lat": 40.80467300000001, 
+      "lng": -81.453977
+    }
+  }, 
+  {
+    "town": "Springfield, Summit, OH", 
+    "size (acres)": 200, 
+    "name": "Springfield Lake", 
+    "location": {
+      "lat": 41.030625, 
+      "lng": -81.4416324
+    }
+  }, 
+  {
+    "town": "Barberton, Summit, OH", 
+    "size (acres)": 100, 
+    "name": "Summit Lake", 
+    "location": {
+      "lat": 41.0579671, 
+      "lng": -81.5404443
+    }
+  }, 
+  {
+    "town": "Aurora, Portage, OH", 
+    "size (acres)": 63, 
+    "name": "Sunny Lake", 
+    "location": {
+      "lat": 41.2911797, 
+      "lng": -81.3184017
+    }
+  }, 
+  {
+    "town": "Green, Summit, OH", 
+    "size (acres)": 318, 
+    "name": "Turkeyfoot Lake", 
+    "location": {
+      "lat": 40.9739481, 
+      "lng": -81.4699207
+    }
+  }, 
+  {
+    "town": "Franklin, Portage, OH", 
+    "size (acres)": 91, 
+    "name": "West Twin Lake", 
+    "location": {
+      "lat": 41.19126989999999, 
+      "lng": -81.3392039
+    }
+  }, 
+  {
+    "town": "Suffield, Portage, OH", 
+    "size (acres)": 262, 
+    "name": "Wingfoot Lake", 
+    "location": {
+      "lat": 41.0206621, 
+      "lng": -81.3622626
+    }
+  }, 
+  {
+    "town": "Stow, Summit, OH", 
+    "size (acres)": 60, 
+    "name": "Wyoga Lake", 
+    "location": {
+      "lat": 41.1823759, 
+      "lng": -81.494297
+    }
+  }
+]
