@@ -17,7 +17,7 @@ Some filters we want to have for the property
 
 ## Current Steps:
 
-1. Using the `scripts` directory, we start with copy/pasted value from wikipedia's list of lakes for Ohio in `get_lakes.py`.
+1. Using the `scripts` directory, we start with copy/pasted value from [wikipedia's list of lakes for Ohio](https://en.wikipedia.org/wiki/List_of_lakes_in_Ohio) in `get_lakes.py`.
 1. From there, we look up geocoding information to get lat/lon pairs for each lake based on the town name in `geocode.py`.
 1. Finally, we [upload the CSV with the lat/lon pairs to a new Google My Map](https://support.google.com/mymaps/answer/3024836?vid=0-795295964273-1504581025568), [for visual analysis here](https://www.google.com/maps/d/edit?mid=1gwxkbn109jMqNndiCNtJJYCCXjQ&ll=41.16764219675483%2C-81.50702766595617&z=9).
 
